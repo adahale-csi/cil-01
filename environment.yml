@@ -1,0 +1,11 @@
+name: cil-env
+channels:
+  - conda-forge
+  - ccpi
+dependencies:
+  - cil=24.3.0
+  - astra-toolbox
+  - tigre
+  - ccpi-regulariser
+  - ipykernel
+  - ipywidgets
